@@ -1,0 +1,7 @@
+name: VexctyRanks
+version: '${project.version}'
+main: com.moonworkshop.ranks.VexctyRanks
+commands:
+  grant:
+  rank:
+  comingsoonserver:

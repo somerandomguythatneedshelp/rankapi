@@ -1,0 +1,7 @@
+name: VexctyRanks
+version: '1.0-SNAPSHOT'
+main: com.moonworkshop.ranks.VexctyRanks
+commands:
+  grant:
+  rank:
+  comingsoonserver:
